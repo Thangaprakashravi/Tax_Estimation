@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tax Estimation Application</string>
+    <string name="TaxyearLable">Tax Year</string>
+    <string name="filingStatusLabel">Tax Filing Status</string>
+    <string-array name="fillingstatuslist">
+        <item>Single</item>
+        <item>Married Filling Joint</item>
+        <item>Married Filling Seprate</item>
+        <item>Head Of Household</item>
+    </string-array>
+    <string-array name="yearlist">
+        <item>2023</item>
+        <item>2024</item>
+    </string-array>
+
+</resources>
